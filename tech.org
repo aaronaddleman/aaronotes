@@ -1,0 +1,5 @@
+* URLs
+** https://github.com/liujianping/job
+   Turn any command into a job
+** https://krillapps.com/patterns/
+   Regex parser and testing
