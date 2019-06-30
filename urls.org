@@ -6,3 +6,4 @@ https://rakyll.org/
 
 https://towardsdatascience.com/automated-data-quality-testing-at-scale-using-apache-spark-93bb1e2c5cd0
 
+* new entry
