@@ -5,3 +5,6 @@ https://rakyll.org/
 * Automated Data Quality Testing at Scale using Apache Spark :datascience:
 
 https://towardsdatascience.com/automated-data-quality-testing-at-scale-using-apache-spark-93bb1e2c5cd0
+
+This seems like a worth while thing to try. Sparks is a interesting application one that looks like it can bring large amounts of hardware to a project. 
+
