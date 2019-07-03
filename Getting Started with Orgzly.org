@@ -100,3 +100,4 @@ DEADLINE: <2019-06-26 Wed ++1h>
 
 https://blog.alanthatcher.io/integrating-chef-and-hashicorp-vault/amp/
 
+* This is from a quick note
