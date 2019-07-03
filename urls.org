@@ -8,3 +8,7 @@ https://towardsdatascience.com/automated-data-quality-testing-at-scale-using-apa
 
 This seems like a worth while thing to try. Sparks is a interesting application one that looks like it can bring large amounts of hardware to a project. 
 
+* Getting Started - Timber Docs
+
+https://docs.timber.io/getting-started
+
