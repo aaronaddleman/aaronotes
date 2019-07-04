@@ -7,3 +7,9 @@
 *** TODO [#A] Plan space
 SCHEDULED: <2019-07-04 Thu 10:30>
 
+* Orgmode
+** NEXT [#B] Setup orgmode on ios
+SCHEDULED: <2019-07-04 Thu 14:30>
+
+Able to update and edit org notes with org app and push changes to git
+
