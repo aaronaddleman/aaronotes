@@ -31,10 +31,19 @@ CLOSED: [2018-01-24 Wed 17:00]
 SCHEDULED: <2015-02-20 Fri 15:15>
 
 *** Times can have a repeater
-SCHEDULED: <2015-02-16 Mon .+2d>
+SCHEDULED: <2019-07-06 Sat .+2d>
+:PROPERTIES:
+:LAST_REPEAT: [2019-07-04 Thu 01:16]
+:END:
 
-** You can also set a deadline time
-DEADLINE: <2015-02-20 Fri>
+** DONE You can also set a deadline time
+CLOSED: [2019-07-04 Thu 01:18] DEADLINE: <2015-02-20 Fri>
+
+** New note under
+
+This is a new note under this other thing
+
+Since this is just text. There is now styling needed.
 
 ** Reminders for scheduled and deadline times are supported
 
