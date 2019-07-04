@@ -1,0 +1,9 @@
+* House
+** Foundation
+*** Questions
+**** How to stop soil from moving?
+**** What will under pin do?
+** Garage
+*** TODO [#A] Plan space
+SCHEDULED: <2019-07-04 Thu 10:30>
+
