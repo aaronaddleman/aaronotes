@@ -5,7 +5,7 @@
 **** What will under pin do?
 ** Garage
 *** TODO [#A] Plan space
-SCHEDULED: <2019-07-04 Thu 10:30>
+DEADLINE: <2019-07-04 Thu 10:00> SCHEDULED: <2019-07-04 Thu 10:30>
 
 * Orgmode
 ** NEXT [#B] Setup orgmode on ios
